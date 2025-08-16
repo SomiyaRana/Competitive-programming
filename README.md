@@ -16,6 +16,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -83,10 +86,12 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
