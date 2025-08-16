@@ -27,6 +27,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Queue
 |  |
 | ------- |
