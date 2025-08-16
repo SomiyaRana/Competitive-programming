@@ -41,17 +41,20 @@
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
