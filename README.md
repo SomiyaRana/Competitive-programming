@@ -65,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -75,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -154,4 +156,8 @@
 | [0584-find-customer-referee](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
