@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
@@ -39,6 +40,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
