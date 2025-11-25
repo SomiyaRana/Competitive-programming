@@ -70,6 +70,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -132,6 +133,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
@@ -144,6 +146,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
