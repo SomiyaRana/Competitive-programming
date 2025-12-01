@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
