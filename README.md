@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -142,6 +144,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
