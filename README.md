@@ -58,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -256,6 +257,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
