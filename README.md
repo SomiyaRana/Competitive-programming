@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
@@ -52,6 +53,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -142,6 +144,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
@@ -267,6 +270,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [2211-count-collisions-on-a-road](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2211-count-collisions-on-a-road) |
