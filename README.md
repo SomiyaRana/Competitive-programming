@@ -70,6 +70,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -140,6 +141,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
@@ -285,6 +287,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -306,4 +310,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
