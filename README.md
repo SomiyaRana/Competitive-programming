@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
@@ -66,6 +67,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -143,6 +145,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
