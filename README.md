@@ -141,6 +141,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
@@ -180,6 +181,7 @@
 | [0013-roman-to-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
