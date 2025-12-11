@@ -123,6 +123,7 @@
 | [0011-container-with-most-water](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -158,6 +159,7 @@
 | [0093-restore-ip-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
