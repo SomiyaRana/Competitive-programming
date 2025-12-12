@@ -13,6 +13,7 @@
 | [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
@@ -172,6 +173,7 @@
 | [0165-compare-version-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
