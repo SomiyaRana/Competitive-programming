@@ -78,6 +78,7 @@
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -163,6 +164,7 @@
 | [0125-valid-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
@@ -191,6 +193,7 @@
 | [0115-distinct-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
@@ -208,6 +211,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -316,6 +320,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Matrix
@@ -337,6 +342,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -353,4 +359,5 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
