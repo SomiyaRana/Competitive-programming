@@ -86,6 +86,7 @@
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -183,6 +184,7 @@
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
@@ -366,6 +369,7 @@
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -384,6 +388,7 @@
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 ## Rolling Hash
 |  |
 | ------- |
