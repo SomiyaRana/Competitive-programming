@@ -185,6 +185,7 @@
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
+| [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -235,6 +236,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -253,6 +255,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
