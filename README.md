@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -199,6 +200,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
@@ -257,6 +259,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
