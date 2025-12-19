@@ -135,6 +135,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -427,6 +428,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
+| [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
 ## Trie
 |  |
 | ------- |
@@ -454,4 +456,16 @@
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
