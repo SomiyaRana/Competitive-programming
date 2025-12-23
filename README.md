@@ -109,6 +109,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -136,6 +137,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -248,6 +250,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -331,6 +334,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
@@ -339,6 +343,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
