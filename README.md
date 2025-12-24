@@ -229,6 +229,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0459-repeated-substring-pattern](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
@@ -390,6 +391,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
 ## Simulation
 |  |
 | ------- |
