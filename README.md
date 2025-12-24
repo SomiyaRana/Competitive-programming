@@ -216,6 +216,7 @@
 | [0344-reverse-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -276,6 +277,7 @@
 | [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -306,6 +308,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
@@ -419,6 +422,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Backtracking
 |  |
 | ------- |
