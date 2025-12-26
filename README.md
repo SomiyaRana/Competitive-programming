@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
@@ -93,6 +94,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
