@@ -105,6 +105,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -304,6 +305,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -349,6 +351,7 @@
 | [0071-simplify-path](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0071-simplify-path) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
@@ -360,6 +363,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
