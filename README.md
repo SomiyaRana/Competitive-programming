@@ -106,6 +106,7 @@
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -307,6 +308,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
