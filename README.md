@@ -37,6 +37,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
@@ -97,6 +98,7 @@
 | [0036-valid-sudoku](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
@@ -274,6 +276,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
