@@ -23,6 +23,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
@@ -119,6 +120,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -328,6 +330,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
@@ -469,6 +472,7 @@
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Geometry
