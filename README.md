@@ -102,6 +102,7 @@
 | [0045-jump-game-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
@@ -156,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
