@@ -25,6 +25,7 @@
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -137,6 +138,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
