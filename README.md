@@ -121,6 +121,7 @@
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
+| [0217-contains-duplicate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
@@ -172,6 +173,7 @@
 | [0056-merge-intervals](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
@@ -340,6 +342,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
