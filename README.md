@@ -361,6 +361,7 @@
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
@@ -551,6 +552,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
@@ -580,6 +582,7 @@
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -587,6 +590,7 @@
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -595,6 +599,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
