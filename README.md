@@ -114,6 +114,7 @@
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
@@ -305,6 +306,7 @@
 | [0053-maximum-subarray](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -401,6 +403,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
@@ -414,6 +417,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -510,6 +514,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
