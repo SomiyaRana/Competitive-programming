@@ -165,6 +165,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -448,6 +449,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3453-separate-squares-i) |
 ## Queue
 |  |
 | ------- |
