@@ -29,6 +29,7 @@
 | [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -157,6 +158,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -530,6 +532,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Divide and Conquer
 |  |
