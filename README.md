@@ -133,6 +133,7 @@
 | [0204-count-primes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
@@ -511,6 +512,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
