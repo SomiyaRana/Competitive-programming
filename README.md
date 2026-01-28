@@ -125,6 +125,7 @@
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
@@ -325,6 +326,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0466-count-the-repetitions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
