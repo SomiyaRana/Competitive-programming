@@ -58,6 +58,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -564,6 +565,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
@@ -597,6 +599,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
 ## Trie
 |  |
@@ -627,6 +630,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -635,6 +639,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -657,6 +662,7 @@
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
