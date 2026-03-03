@@ -602,6 +602,7 @@
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -634,6 +635,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -644,6 +646,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
