@@ -182,6 +182,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -509,6 +510,7 @@
 | [0495-teemo-attacking](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [2211-count-collisions-on-a-road](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3379-transformed-array) |
 ## Linked List
 |  |
 | ------- |
