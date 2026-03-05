@@ -163,6 +163,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -555,6 +556,7 @@
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
 ## Geometry
 |  |
