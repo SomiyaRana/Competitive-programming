@@ -13,6 +13,7 @@
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
@@ -589,6 +591,7 @@
 | [0040-combination-sum-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
