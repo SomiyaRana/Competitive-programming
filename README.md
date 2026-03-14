@@ -76,6 +76,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -195,6 +196,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3379-transformed-array) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -230,6 +232,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3606-coupon-code-validator](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
