@@ -32,6 +32,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
+| [1622-fancy-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1622-fancy-sequence) |
 | [1925-count-square-sum-triples](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -657,6 +658,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [1622-fancy-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1622-fancy-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -717,6 +719,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
 |  |
