@@ -628,6 +628,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
@@ -663,6 +664,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -674,6 +676,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -685,6 +688,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
