@@ -27,6 +27,7 @@
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
+| [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -332,6 +333,7 @@
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0748-shortest-completing-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -547,6 +549,7 @@
 | [0068-text-justification](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0495-teemo-attacking) |
+| [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [2211-count-collisions-on-a-road](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3379-transformed-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3379-transformed-array) |
