@@ -572,6 +572,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
