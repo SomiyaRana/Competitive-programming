@@ -413,6 +413,7 @@
 | [0076-minimum-window-substring](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
@@ -573,6 +574,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -690,6 +692,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [1622-fancy-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1622-fancy-sequence) |
@@ -776,4 +779,8 @@
 |  |
 | ------- |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
