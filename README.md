@@ -335,6 +335,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 | [0748-shortest-completing-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
@@ -540,6 +541,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
 | ------- |
