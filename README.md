@@ -63,6 +63,7 @@
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
+| [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -177,6 +178,7 @@
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -275,6 +277,7 @@
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
+| [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -354,6 +357,7 @@
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
