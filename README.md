@@ -173,6 +173,7 @@
 | [0721-accounts-merge](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
+| [0766-toeplitz-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -641,6 +642,7 @@
 | [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0766-toeplitz-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
