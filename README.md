@@ -229,6 +229,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
@@ -621,6 +622,7 @@
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -658,6 +660,7 @@
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Geometry
 |  |
@@ -698,6 +701,7 @@
 | [0204-count-primes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Combinatorics
 |  |
 | ------- |
