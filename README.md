@@ -187,6 +187,7 @@
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
@@ -264,6 +265,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -298,6 +300,7 @@
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
+| [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
