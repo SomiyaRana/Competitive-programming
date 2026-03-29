@@ -174,6 +174,7 @@
 | [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
@@ -572,6 +573,7 @@
 | [0035-search-insert-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
