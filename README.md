@@ -185,6 +185,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
@@ -386,6 +387,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0804-unique-morse-code-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
