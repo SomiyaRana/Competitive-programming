@@ -175,6 +175,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0733-flood-fill) |
@@ -485,6 +486,7 @@
 | [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
@@ -641,6 +643,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
+| [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -776,12 +779,14 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 | [1622-fancy-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1622-fancy-sequence) |
 ## Tree
 |  |
