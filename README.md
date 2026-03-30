@@ -281,6 +281,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2785-sort-vowels-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -407,6 +408,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2785-sort-vowels-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3136-valid-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3136-valid-word) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -502,6 +504,7 @@
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
