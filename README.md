@@ -230,6 +230,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
+| [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -526,6 +527,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
@@ -820,6 +822,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 | [1622-fancy-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1622-fancy-sequence) |
+| [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
 ## Tree
 |  |
 | ------- |
@@ -913,4 +916,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
