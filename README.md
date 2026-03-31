@@ -93,6 +93,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -426,6 +427,7 @@
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3136-valid-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3136-valid-word) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
@@ -632,6 +634,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0686-repeated-string-match) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Simulation
 |  |
 | ------- |
