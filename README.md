@@ -790,6 +790,7 @@
 | ------- |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -833,6 +834,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -846,6 +848,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -858,6 +861,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
