@@ -576,6 +576,7 @@
 | [0020-valid-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
@@ -793,6 +794,7 @@
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
@@ -837,6 +839,7 @@
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -851,6 +854,7 @@
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
