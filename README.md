@@ -217,6 +217,7 @@
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -420,6 +421,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
@@ -531,6 +533,7 @@
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
@@ -553,6 +556,7 @@
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
