@@ -174,6 +174,7 @@
 | [0238-product-of-array-except-self](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0474-ones-and-zeroes) |
@@ -290,6 +291,7 @@
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
@@ -333,6 +335,7 @@
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
@@ -511,6 +514,7 @@
 | [0217-contains-duplicate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -629,6 +633,7 @@
 | [0035-search-insert-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
