@@ -67,6 +67,7 @@
 | [0179-largest-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
+| [0605-can-place-flowers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -185,6 +186,7 @@
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
