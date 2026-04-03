@@ -28,6 +28,7 @@
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
+| [0598-range-addition-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0598-range-addition-ii) |
 | [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
@@ -183,6 +184,7 @@
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0598-range-addition-ii) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
