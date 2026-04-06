@@ -218,6 +218,7 @@
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -311,6 +312,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -351,6 +353,7 @@
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
