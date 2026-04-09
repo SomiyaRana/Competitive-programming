@@ -228,6 +228,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
+| [0999-available-captures-for-rook](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1002-find-common-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -708,6 +709,7 @@
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [0999-available-captures-for-rook](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [2069-walking-robot-simulation-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2211-count-collisions-on-a-road) |
@@ -772,6 +774,7 @@
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
