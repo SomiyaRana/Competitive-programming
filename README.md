@@ -43,6 +43,7 @@
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
@@ -245,6 +246,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -721,6 +723,7 @@
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0999-available-captures-for-rook](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2069-walking-robot-simulation-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2211-count-collisions-on-a-road) |
