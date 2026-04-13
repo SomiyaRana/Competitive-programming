@@ -867,6 +867,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
@@ -913,6 +914,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
@@ -928,6 +930,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0101-symmetric-tree) |
@@ -965,6 +968,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
