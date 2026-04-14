@@ -276,6 +276,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2463-minimum-total-distance-traveled](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
@@ -346,6 +347,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2463-minimum-total-distance-traveled](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2751-robot-collisions) |
 | [2785-sort-vowels-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -529,6 +531,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2463-minimum-total-distance-traveled](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
