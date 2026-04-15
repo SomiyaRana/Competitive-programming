@@ -199,6 +199,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
@@ -808,6 +809,7 @@
 | [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
