@@ -198,6 +198,7 @@
 | [0605-can-place-flowers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
@@ -647,6 +648,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
