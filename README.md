@@ -536,6 +536,7 @@
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -891,6 +892,7 @@
 | [0079-word-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0306-additive-number) |
@@ -960,6 +962,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
@@ -976,6 +979,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0100-same-tree) |
@@ -1014,6 +1018,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
