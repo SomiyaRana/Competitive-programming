@@ -97,6 +97,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -286,6 +287,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
