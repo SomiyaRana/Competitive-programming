@@ -88,6 +88,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -255,6 +256,7 @@
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1002-find-common-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
