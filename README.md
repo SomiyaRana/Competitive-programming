@@ -41,6 +41,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1030-matrix-cells-in-distance-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -255,6 +256,7 @@
 | [1002-find-common-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1030-matrix-cells-in-distance-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -365,6 +367,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -852,6 +855,7 @@
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
+| [1030-matrix-cells-in-distance-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -874,6 +878,7 @@
 | [0149-max-points-on-a-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
