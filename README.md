@@ -303,6 +303,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -649,6 +650,7 @@
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2615-sum-of-distances](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -826,6 +828,7 @@
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
