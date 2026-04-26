@@ -215,6 +215,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
