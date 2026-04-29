@@ -323,6 +323,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3321-type-of-triangle) |
@@ -591,6 +592,7 @@
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -840,6 +842,7 @@
 | [2615-sum-of-distances](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -892,6 +895,7 @@
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3643-flip-square-submatrix-vertically) |
