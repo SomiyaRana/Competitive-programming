@@ -207,6 +207,7 @@
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -629,6 +630,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0525-contiguous-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -838,6 +840,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
