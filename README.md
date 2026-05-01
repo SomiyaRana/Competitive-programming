@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0292-nim-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1147,4 +1148,12 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
