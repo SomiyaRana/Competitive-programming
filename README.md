@@ -24,6 +24,7 @@
 | [0204-count-primes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -199,6 +200,7 @@
 | [0332-reconstruct-itinerary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
@@ -577,6 +579,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0466-count-the-repetitions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
