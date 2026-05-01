@@ -24,6 +24,7 @@
 | [0204-count-primes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0396-rotate-function) |
@@ -1154,6 +1155,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
