@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
+| [0788-rotated-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0812-largest-triangle-area](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -590,6 +591,7 @@
 | [0474-ones-and-zeroes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0788-rotated-digits) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
