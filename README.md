@@ -98,6 +98,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -543,6 +544,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-find-common-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
@@ -707,6 +709,7 @@
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
