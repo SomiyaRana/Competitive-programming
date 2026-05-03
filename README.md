@@ -531,6 +531,7 @@
 | [0748-shortest-completing-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0748-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
@@ -815,6 +816,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Simulation
 |  |
