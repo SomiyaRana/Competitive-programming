@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0062-unique-paths) |
@@ -169,6 +170,7 @@
 | [0039-combination-sum](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0056-merge-intervals) |
@@ -892,6 +894,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
