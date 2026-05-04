@@ -433,6 +433,7 @@
 | [0125-valid-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0344-reverse-string) |
@@ -638,6 +639,7 @@
 | [0141-linked-list-cycle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -862,6 +864,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
