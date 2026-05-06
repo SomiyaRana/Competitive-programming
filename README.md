@@ -96,6 +96,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -144,6 +145,7 @@
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -260,6 +262,7 @@
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
@@ -935,6 +938,7 @@
 | [0766-toeplitz-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
