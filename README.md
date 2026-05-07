@@ -51,6 +51,7 @@
 | [1037-valid-boomerang](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
@@ -105,6 +106,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -565,6 +567,7 @@
 | [1002-find-common-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
