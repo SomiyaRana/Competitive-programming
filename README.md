@@ -113,6 +113,7 @@
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -152,6 +153,7 @@
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
@@ -309,6 +311,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -720,6 +723,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
