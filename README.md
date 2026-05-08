@@ -70,6 +70,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -371,6 +372,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -730,6 +732,7 @@
 | [3488-closest-equal-element-queries](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1133,6 +1136,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -1162,6 +1166,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Segment Tree
 |  |
 | ------- |
