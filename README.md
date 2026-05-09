@@ -89,6 +89,7 @@
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
@@ -243,6 +244,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -410,6 +412,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -697,6 +700,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
@@ -752,6 +756,7 @@
 | ------- |
 | [0299-bulls-and-cows](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -811,6 +816,7 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0420-strong-password-checker](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0420-strong-password-checker) |
+| [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1046-last-stone-weight) |
