@@ -123,6 +123,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -602,6 +603,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1773-count-items-matching-a-rule](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
