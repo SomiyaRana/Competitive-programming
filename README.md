@@ -120,6 +120,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -334,6 +335,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
 | [1656-design-an-ordered-stream](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1656-design-an-ordered-stream) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -444,6 +446,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
