@@ -130,6 +130,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -617,6 +618,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
