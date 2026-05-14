@@ -120,6 +120,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -454,6 +455,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -612,6 +614,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1328-break-a-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1328-break-a-palindrome) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1629-slowest-key](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1629-slowest-key) |
