@@ -370,6 +370,7 @@
 | [2615-sum-of-distances](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -465,6 +466,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -769,6 +771,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2615-sum-of-distances](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
