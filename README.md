@@ -94,6 +94,7 @@
 | [0611-valid-triangle-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0649-dota2-senate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
@@ -594,6 +595,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0640-solve-the-equation) |
+| [0649-dota2-senate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0686-repeated-string-match) |
@@ -901,6 +903,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
