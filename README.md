@@ -119,6 +119,7 @@
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1328-break-a-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -333,6 +334,7 @@
 | [1306-jump-game-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -460,6 +462,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -867,6 +870,7 @@
 | [1046-last-stone-weight](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1753-maximum-score-from-removing-stones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
