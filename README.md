@@ -333,6 +333,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
@@ -773,6 +774,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-number-of-good-pairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
@@ -1209,6 +1211,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
