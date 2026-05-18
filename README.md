@@ -107,6 +107,7 @@
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -305,6 +306,7 @@
 | [0929-unique-email-addresses](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -456,6 +458,7 @@
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -811,6 +814,7 @@
 | [0767-reorganize-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
