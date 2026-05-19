@@ -105,6 +105,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -292,6 +293,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
+| [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
@@ -458,6 +460,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -523,6 +526,7 @@
 | [0611-valid-triangle-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
@@ -906,6 +910,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
