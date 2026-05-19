@@ -104,6 +104,7 @@
 | [0768-partition-labels](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -288,6 +289,7 @@
 | [0797-rabbits-in-forest](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0797-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
@@ -1033,6 +1035,7 @@
 | [0661-image-smoother](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
