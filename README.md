@@ -121,6 +121,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1304-longest-happy-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1328-break-a-palindrome](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1328-break-a-palindrome) |
@@ -340,6 +341,7 @@
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1306-jump-game-iii) |
@@ -791,6 +793,7 @@
 | [1122-relative-sort-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1345-jump-game-iv) |
