@@ -400,6 +400,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -670,6 +671,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3136-valid-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3136-valid-word) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -812,6 +814,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1173,6 +1176,7 @@
 | [0212-word-search-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
