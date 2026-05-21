@@ -4,7 +4,6 @@ class Solution {
     public int maxPathScore(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
 
-        // dp[j][c] = max score at column j with cost c
         int[][] dp = new int[n][k + 1];
         for (int[] row : dp) Arrays.fill(row, -1);
         dp[0][0] = 0;
@@ -20,7 +19,6 @@ class Solution {
 
                 for (int c = 0; c <= k; c++) {
 
-                    // from top (previous row)
                     if (dp[j][c] != -1) {
                         int nc = c + cost;
                         if (nc <= k) {
@@ -28,7 +26,6 @@ class Solution {
                         }
                     }
 
-                    // from left (same row, already updated)
                     if (j > 0 && newDp[j - 1][c] != -1) {
                         int nc = c + cost;
                         if (nc <= k) {
