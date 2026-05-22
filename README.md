@@ -142,6 +142,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1753-maximum-score-from-removing-stones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1753-maximum-score-from-removing-stones) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -376,6 +377,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
@@ -492,6 +494,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -548,6 +551,7 @@
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
