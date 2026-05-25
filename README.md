@@ -663,6 +663,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1773-count-items-matching-a-rule](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1773-count-items-matching-a-rule) |
+| [1871-jump-game-vii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -725,6 +726,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1871-jump-game-vii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1871-jump-game-vii) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2463-minimum-total-distance-traveled](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2463-minimum-total-distance-traveled) |
@@ -870,6 +872,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1695-maximum-erasure-value](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1695-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1029,6 +1032,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
