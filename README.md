@@ -351,6 +351,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -490,6 +491,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -722,6 +724,7 @@
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1340-jump-game-v) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
