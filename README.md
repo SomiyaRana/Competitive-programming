@@ -100,6 +100,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0738-monotone-increasing-digits) |
 | [0757-set-intersection-size-at-least-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0767-reorganize-string) |
@@ -286,6 +287,7 @@
 | [0697-degree-of-an-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0705-design-hashset) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0724-find-pivot-index) |
@@ -719,6 +721,7 @@
 | [0472-concatenated-words](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0788-rotated-digits) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
