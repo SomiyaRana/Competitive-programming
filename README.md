@@ -111,6 +111,7 @@
 | [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
+| [0870-advantage-shuffle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0870-advantage-shuffle) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -309,6 +310,7 @@
 | [0860-lemonade-change](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0867-transpose-matrix) |
+| [0870-advantage-shuffle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0870-advantage-shuffle) |
 | [0874-walking-robot-simulation](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0892-surface-area-of-3d-shapes) |
@@ -479,6 +481,7 @@
 | [0767-reorganize-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0870-advantage-shuffle) |
 | [0888-fair-candy-swap](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -551,6 +554,7 @@
 | [0826-most-profit-assigning-work](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0832-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0868-push-dominoes) |
+| [0870-advantage-shuffle](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0870-advantage-shuffle) |
 | [0905-sort-array-by-parity](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0942-di-string-match) |
