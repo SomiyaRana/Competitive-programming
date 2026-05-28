@@ -694,6 +694,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3136-valid-word) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -841,6 +842,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
