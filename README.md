@@ -152,6 +152,7 @@
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -397,6 +398,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -514,6 +516,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
