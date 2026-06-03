@@ -153,6 +153,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -403,6 +404,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1980-find-unique-binary-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -526,6 +528,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2092-find-all-people-with-secret) |
@@ -935,6 +938,7 @@
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -949,6 +953,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/SomiyaRana/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
